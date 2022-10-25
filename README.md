@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yothiz
+- 👀 I’m interested in Software developmend
+- 🌱 I’m currently learning Software
